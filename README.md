@@ -52,6 +52,6 @@ https://user-images.githubusercontent.com/113004872/236435113-393ac9f5-f4a6-484c
 
 ## Feedback
 
-If you have any feedback, please reach out to me at dsindhujasri.vspm@gmail.com
+For feedback, reach out at dolasahitya@gmail.com
 
 
