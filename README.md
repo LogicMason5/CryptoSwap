@@ -1,6 +1,6 @@
-# Blockchain ATM
+# CryptoSwap
 
-Building a Blockchain mobile application for getting real time crypto prices and exchanging cryptocurrencies.
+Building a Blockchain mobile application for getting real-time crypto prices and exchanging cryptocurrencies.
 
 
 ## Tech Stack
