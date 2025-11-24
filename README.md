@@ -52,6 +52,6 @@ https://user-images.githubusercontent.com/113004872/236435113-393ac9f5-f4a6-484c
 
 ## Feedback
 
-For feedback, reach out at dolasahitya@gmail.com
+For feedback, reach out at logicmason5@gmail.com
 
 
